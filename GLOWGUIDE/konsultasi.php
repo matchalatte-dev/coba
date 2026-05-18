@@ -243,7 +243,7 @@ function getSkinColor($jenis_kulit) {
         .divider {
             border: none;
             border-top: 1px dashed #ffe0ee;
-            margin: 14px 0;
+            margin: 14px 50px;
         }
 
        
